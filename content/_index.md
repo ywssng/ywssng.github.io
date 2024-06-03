@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -19,17 +19,17 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      # css_class: dark
       background:
-        color: black
-        image:
+        color: white
+        # image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 0.9
-          size: cover
-          position: center
-          parallax: false
+          # filename: stacked-peaks.svg
+          # filters:
+            # brightness: 0.9
+          # size: cover
+          # position: center
+          # parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
