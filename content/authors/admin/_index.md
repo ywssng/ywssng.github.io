@@ -3,7 +3,7 @@
 title: Yeongwoo Song
 
 # Name pronunciation (optional)
-name_pronunciation: Young-oo(long/u:/),Song
+name_pronunciation: Young-oo(long/u:/)
 
 # Full name (for SEO)
 first_name: Yeongwoo
