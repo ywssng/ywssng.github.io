@@ -5,17 +5,17 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: light
+  color: river
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'kaist'
+    description: 'Ph.D. student at Complex Systems and Statistical Physics Lab. at Korea Advanced Institue of Science and Technology (CSSPL, KAIST)'
+    twitter: 'why2u__ssng'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

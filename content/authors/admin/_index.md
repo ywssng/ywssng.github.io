@@ -3,7 +3,7 @@
 title: Yeongwoo Song
 
 # Name pronunciation (optional)
-name_pronunciation: Young-oo(long /u:/) Song
+name_pronunciation: Young-oo(long/u:/),Song
 
 # Full name (for SEO)
 first_name: Yeongwoo
@@ -24,7 +24,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Complex Systems and Statistical Physics Lab., KAIST
+  - name: CSSPL, KAIST
     url: https://stat.kaist.ac.kr
 
 # Social network links
