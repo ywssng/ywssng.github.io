@@ -55,7 +55,7 @@ education:
   - area: Integrated M.S./Ph.D. in Physics
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2022-03-01
-    date_end: current
+    # date_end: current
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
