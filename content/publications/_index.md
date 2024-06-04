@@ -17,4 +17,5 @@ cascade:
     show_related: true
     show_breadcrumb: true
     share: true
+    highlight_name: true
 ---
