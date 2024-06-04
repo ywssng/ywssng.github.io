@@ -6,12 +6,12 @@ title: 'Towards Cross Domain Generalization of Hamiltonian Representation via Me
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Hawoong Jeong
+  - "Hawoong Jeong"
 
 # Author notes (optional)
 author_notes:
-  - ''
-  - 'Corresponding author'
+  - ""
+  - ""
 
 date: '2024-01-16T00:00:00Z'
 doi: ''

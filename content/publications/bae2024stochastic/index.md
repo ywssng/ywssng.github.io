@@ -5,15 +5,15 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Youngkyoung Bae
+  - "Youngkyoung Bae"
   - admin
-  - Hawoong Jeong
+  - "Hawoong Jeong"
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Corresponding author'
+  - "Equal contribution"
+  - "Equal contribution"
+  - ""
 
 date: '2024-06-01T00:00:00Z'
 doi: ''
