@@ -9,4 +9,12 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+cascade:
+  - _target:
+      kind: page
+    reading_time: false
+    show_related: true
+    show_breadcrumb: true
+    share: true
 ---
