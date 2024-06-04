@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -21,7 +21,7 @@ sections:
     design:
       # css_class: dark
       background:
-        color: white
+        # color: white
         # image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
