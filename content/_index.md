@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "0.5rem"
     # padding: ['1rem', 0, 0, 0]
 
 sections:
@@ -38,8 +38,8 @@ sections:
       text: |-        
         Please reach out to collaborate 😃
     design:
-      spacing: '1rem'
-        # padding: ['1rem', 0, 0, 0]
+      spacing:
+        padding: ['0.5rem', 0, 0, 0]
       columns: '1'
   # - block: collection
   #   id: papers
