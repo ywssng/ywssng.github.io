@@ -4,8 +4,15 @@ title: 'Towards Cross Domain Generalization of Hamiltonian Representation via Me
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
+cascade:
+  - _target:
+      kind: page
+    reading_time: false
+    show_related: true
+    show_breadcrumb: true
+    share: true
 authors:
-  - admin
+  - "Yeongwoo Song"
   - "Hawoong Jeong"
 
 # Author notes (optional)

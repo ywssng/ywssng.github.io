@@ -6,7 +6,7 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - "Youngkyoung Bae"
-  - admin
+  - "Yeongwoo Song"
   - "Hawoong Jeong"
 
 # Author notes (optional)
@@ -35,7 +35,12 @@ abstract: Despite its prevalence, giving up and starting over may seem wasteful 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
+tags:
+  - statistical physics
+  - stochastic restarting
+  - learning noisy labels
+  - robust regularization
+  - training dynamics
 
 
 # Display this page in the Featured widget?
