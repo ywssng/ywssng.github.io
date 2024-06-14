@@ -7,7 +7,7 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 authors:
   - "Youngkyoung Bae$^*$"
   - "**Yeongwoo Song**$^*$"
-  - "Hawoong Jeong'
+  - "Hawoong Jeong"
 
 # Author notes (optional)
 author_notes:
