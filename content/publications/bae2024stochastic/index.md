@@ -6,7 +6,7 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - "Youngkyoung Bae$^*$"
-  - "**Yeongwoo Song**"$^*$"
+  - "**Yeongwoo Song**$^*$"
   - "Hawoong Jeong"
 
 # Author notes (optional)
