@@ -37,7 +37,10 @@ sections:
       subtitle: ''
       text: |-        
         Currently, I'm interested in various areas that can attract the attention of both physicists and AI researchers; 1) many topics from statistical physics, including (but not limited to) phase transitions, critical phenomena of complex systems, 2) recent advances in deep learning, such as diffusion models, graph neural networks, PINNs, 3) or the (likely) intersection of the two, from learning dynamics to mechanistic interpretability of neural networks.
-        If you are fascinated by solving complicated problems in physics or complex systems with the help of AI, or if you are trying to understand the behavior or hidden nature of deep neural networks, please reach out to collaborate. 😃
+        
+        I aim to solve complicated problems in physics or complex systems with the help of AI, and endeavor to understand the behavior or the hidden nature of deep neural networks.
+        
+        If you share the same spirit, please reach out to collaborate. 😃
     design:
       spacing:
         padding: ['2rem', 0, 0, 0]
