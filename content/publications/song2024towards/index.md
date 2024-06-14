@@ -6,7 +6,7 @@ title: 'Towards Cross Domain Generalization of Hamiltonian Representation via Me
 # and it will be replaced with their full name and linked to their profile.
 
 authors:
-  - "admin"
+  - __Yeongwoo Song__
   - "Hawoong Jeong"
 
 # Author notes (optional)
