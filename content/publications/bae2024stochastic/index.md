@@ -6,7 +6,7 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Youngkyoung Bae<sup>*</sup>
-  - admin
+  - admin<sup>*</sup>
   - Hawoong Jeong
 
 # Author notes (optional)
@@ -49,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 - name: Paper
-  url: https://arxiv.org/abs/2406.00396
+  url: 'https://arxiv.org/abs/2406.00396'
 url_pdf: 'https://arxiv.org/pdf/2406.00396'
 # url_code: ''
 # url_dataset: 
