@@ -47,8 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Physics
-  - Artificial Intelligence
+  - Statistical Physics
+  - Deep Learning
   - Complex Systems
 
 education:
@@ -152,4 +152,4 @@ languages:
 
 ## About Me
 
-I am a dedicated Ph.D. student of physics with a keen interest in the latest advancements in the field of artificial intelligence. My work focuses on the interdisciplinary field of physics and deep learning. Specifically, my research aims to advance artificial intelligence with the aid of physics and further understand its behavior and functions.
+I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I have a keen interest in the latest advances in the field of AI (from the perspective of physicists). My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behaviour and functions of AI through the lens of physics.

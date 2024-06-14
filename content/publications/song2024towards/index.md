@@ -35,7 +35,6 @@ abstract: Recent advances in deep learning for physics have focused on discoveri
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - physics
   - ai for physics
   - representation learning
   - meta learning
@@ -45,9 +44,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: https://openreview.net/forum?id=AZGIwqCyYY
 url_pdf: 'https://openreview.net/pdf?id=AZGIwqCyYY'
 # url_code: ''
 # url_dataset: 

@@ -5,8 +5,8 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "Youngkyoung Bae"
-  - "admin"
+  - "Youngkyoung Bae"<sup>*</sup>
+  - "admin"<sup>*</sup>
   - "Hawoong Jeong"
 
 # Author notes (optional)
@@ -36,11 +36,11 @@ abstract: Despite its prevalence, giving up and starting over may seem wasteful 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - physics for ai
   - statistical physics
   - stochastic restarting
   - learning noisy labels
   - robust regularization
-  - training dynamics
 
 
 # Display this page in the Featured widget?
@@ -48,8 +48,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Paper
+  url: https://arxiv.org/abs/2406.00396
 url_pdf: 'https://arxiv.org/pdf/2406.00396'
 # url_code: ''
 # url_dataset: 
