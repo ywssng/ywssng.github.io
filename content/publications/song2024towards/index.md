@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: 'https://openreview.net/forum?id=AZGIwqCyYY'
+  url: https://openreview.net/forum?id=AZGIwqCyYY
 url_pdf: 'https://openreview.net/pdf?id=AZGIwqCyYY'
 # url_code: ''
 # url_dataset: 

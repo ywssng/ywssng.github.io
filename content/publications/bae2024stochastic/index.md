@@ -49,7 +49,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 - name: Paper
-  url: 'https://arxiv.org/abs/2406.00396'
+  url: https://arxiv.org/abs/2406.00396
 url_pdf: 'https://arxiv.org/pdf/2406.00396'
 # url_code: ''
 # url_dataset: 
