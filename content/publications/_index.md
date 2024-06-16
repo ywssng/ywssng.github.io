@@ -24,5 +24,5 @@ cascade:
     highlight_name: true
   design:
     spacing:
-    padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
+      padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
 ---
