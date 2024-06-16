@@ -6,8 +6,8 @@ type: landing
 
 design:
   # Default section spacing
-  # spacing: "0"
-    padding: [0, '1rem', 0, '1rem']
+  spacing: "0"
+    # padding: [0, '1rem', 0, '1rem']
 
 sections:
   - block: resume-biography-3
@@ -43,7 +43,7 @@ sections:
         If you share the same spirit, please reach out to collaborate. 😃
     design:
       spacing:
-        padding: ['2rem', 0, 0, 0] # top, right, bottom, left
+        padding: ['2rem', '0.75rem', 0, '0.75rem'] # top, right, bottom, left
       columns: '1'
   # - block: collection
   #   id: papers
