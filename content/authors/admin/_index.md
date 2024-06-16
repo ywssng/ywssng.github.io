@@ -155,3 +155,5 @@ languages:
 I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I have a keen interest in the latest advances in the field of AI (from the perspective of physicists).
 
 My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behaviour and functions of AI through the lens of physics.
+
+On the other hand, I enjoy brewing myself a good cup of coffee ☕️, working out at the gym 🏋️, and playing the violin 🎻.
