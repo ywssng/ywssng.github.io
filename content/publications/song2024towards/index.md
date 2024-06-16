@@ -1,6 +1,10 @@
 ---
 title: 'Towards Cross Domain Generalization of Hamiltonian Representation via Meta Learning'
 
+design:
+  spacing:
+    padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
