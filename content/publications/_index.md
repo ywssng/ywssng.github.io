@@ -10,6 +10,10 @@ banner:
   caption: ''
   image: ''
 
+design:
+  spacing:
+    padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
+
 cascade:
   - _target:
       kind: page
