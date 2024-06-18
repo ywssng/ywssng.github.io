@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: citation
+view: community/mycitation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
@@ -22,7 +22,7 @@ cascade:
     show_breadcrumb: true
     share: true
     highlight_name: true
-    design:
-      spacing:
-        padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
+    # design:
+    #   spacing:
+    #     padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
 ---

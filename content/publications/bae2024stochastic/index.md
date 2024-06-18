@@ -11,8 +11,8 @@ design:
 authors:
   # - "Youngkyoung Bae$^*$"
   # - "Yeongwoo Song$^*$"
-  - 'Youngkyoung Bae'
-  - 'admin'
+  - 'Youngkyoung Bae'+'*'
+  - 'admin'+'*'
   - "Hawoong Jeong"
 
 # Author notes (optional)

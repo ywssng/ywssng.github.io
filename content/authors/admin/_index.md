@@ -48,8 +48,11 @@ profiles:
 
 interests:
   - Statistical Physics
+  - Complex Systems 
   - Deep Learning
-  - Complex Systems
+  - Physics for AI
+  - AI for Physics
+
 
 education:
   - area: Integrated M.S./Ph.D. in Physics
@@ -149,10 +152,9 @@ languages:
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
-
 ## About Me
 
-I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I have a keen interest in the latest advances in the field of AI (from the perspective of physicists).
+I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I am interested in the latest advances in AI from a physicist's perspective.
 
 My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behaviour and functions of AI through the lens of physics.
 
