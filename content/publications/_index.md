@@ -2,6 +2,14 @@
 title: Publications
 cms_exclude: true
 
+sections:
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-        
+        (*: Equal contribution)
+
 # View.
 view: community/mycitation
 
@@ -26,4 +34,4 @@ cascade:
     #   spacing:
     #     padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
 ---
-(*: Equal contribution)
+<!-- (*: Equal contribution) -->
