@@ -53,7 +53,6 @@ interests:
   - Physics for AI
   - AI for Physics
 
-
 education:
   - area: Integrated M.S./Ph.D. in Physics
     institution: Korea Advanced Institute of Science and Technology
@@ -70,7 +69,6 @@ education:
     date_end: 2022-02-28
     # summary: |
     #   GPA: 3.8/4.0
-
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -98,7 +96,6 @@ education:
 #       - Migrated infrastructure to a new data center
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
@@ -132,13 +129,11 @@ education:
 #         description: ''
 #         percent: 80
 #         icon: camera
-
-languages:
-  - name: English
+# languages:
+  # - name: English
     # percent: 100
-  - name: Korean
+  # - name: Korean
     # percent: 75
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
