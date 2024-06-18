@@ -147,15 +147,18 @@ education:
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
+```html
 <h2 class="mt-0 pt-0 lg:mt-0 lg:pt-0 text-3xl">About Me</h2>
 
 <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <p>I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I am interested in the latest advances in AI from a physicist's perspective.</p>
+    <p>I am a Ph.D. student at the Dept. of Physics, KAIST, supervised by Prof. Hawoong Jeong. I am interested in the latest advances in AI from a physicist's perspective.</p>
 
     <p>My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behaviour and functions of AI through the lens of physics.</p>
 
     <p>On the other hand, I enjoy brewing myself a good cup of coffee ☕️, working out at the gym 🏋️, and playing the violin 🎻.</p>
 </div>
+```
+
 
 <!-- I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I am interested in the latest advances in AI from a physicist's perspective.
 
