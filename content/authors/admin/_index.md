@@ -150,9 +150,9 @@ education:
 <h2 class="mt-0 pt-0 lg:mt-0 lg:pt-0 text-3xl">About Me</h2>
 
 <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-    <p>I am a Ph.D. student at the Dept. of Physics, [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Hawoong Jeong](https://stat.kaist.ac.kr/). Currently, I have my interests in the latest advances in AI from a physicist's perspective. <br><br>
+    <p>I am a Ph.D. student at the Dept. of Physics, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, advised by Prof. <a href="https://stat.kaist.ac.kr/">Hawoong Jeong</a>. Currently, I have my interests in the latest advances in AI from a physicist's perspective. <br><br>
     My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behaviour and functions of AI through the lens of physics. <br><br>
-    On the other hand, I enjoy brewing myself a good cup of coffee ☕️, working out at the gym 🏋️, and playing the violin 🎻.</p>
+    I also enjoy brewing myself a good cup of coffee ☕️, working out at the gym 🏋️, and playing the violin 🎻.</p>
 </div>
 
 
