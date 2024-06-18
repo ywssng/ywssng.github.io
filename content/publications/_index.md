@@ -2,14 +2,6 @@
 title: Publications
 cms_exclude: true
 
-sections:
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-        
-        (*: Equal contribution)
-
 # View.
 view: community/mycitation
 
