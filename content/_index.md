@@ -33,8 +33,8 @@ sections:
           # parallax: false
   - block: markdown
     content:
-      title: ''
-      subtitle: '📚 My Research'
+      title: '📚 My Research'
+      subtitle: ''
       text: |-        
         Currently, I'm interested in various areas that can attract the attention of both physicists and AI researchers; 1) many topics from statistical physics, including (but not limited to) phase transitions, critical phenomena of complex systems, 2) recent advances in deep learning, such as diffusion models, GNNs, PINNs, etc., 3) or the (likely) intersection of the two, from learning dynamics to mechanistic interpretability of neural networks.
         
