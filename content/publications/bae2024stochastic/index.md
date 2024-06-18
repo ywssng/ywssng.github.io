@@ -1,9 +1,9 @@
 ---
 title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with Noisy Labels'
 
-design:
-  spacing:
-    padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
+# design:
+#   spacing:
+#     padding: [0, '1rem', 0, '1rem'] # top, right, bottom, left
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,8 +11,8 @@ design:
 authors:
   # - "Youngkyoung Bae$^*$"
   # - "Yeongwoo Song$^*$"
-  - 'Youngkyoung Bae'+'*'
-  - 'admin'+'*'
+  - 'Youngkyoung Bae'
+  - 'admin'
   - "Hawoong Jeong"
 
 # Author notes (optional)
