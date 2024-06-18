@@ -147,7 +147,7 @@ education:
 #     summary: |
 #       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
-## About Me
+<h2 class="mt-0 pt-0">About Me</h2>
 
 I am a Ph.D. student at the Dept. of Physics, KAIST (Korea Advanced Institute of Science and Technology), supervised by Prof. Hawoong Jeong. I am interested in the latest advances in AI from a physicist's perspective.
 
