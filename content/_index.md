@@ -43,7 +43,7 @@ sections:
         If you share the same spirit, please reach out to collaborate. 😃
     design:
       spacing:
-        padding: ['2rem', '0.75rem', 0, '0.75rem'] # top, right, bottom, left
+        padding: ['4rem', '0.75rem', 0, '0.75rem'] # top, right, bottom, left
       columns: '1'
   # - block: collection
   #   id: papers
