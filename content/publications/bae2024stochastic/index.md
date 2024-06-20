@@ -11,15 +11,15 @@ title: 'Stochastic Restarting to Overcome Overfitting in Neural Networks with No
 authors:
   # - "Youngkyoung Bae$^*$"
   # - "Yeongwoo Song$^*$"
-  - 'Youngkyoung Bae'
-  - 'admin'
-  - "Hawoong Jeong"
+  -"Youngkyoung Bae"
+  -"admin"
+  -"Hawoong Jeong"
 
 # Author notes (optional)
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
-  - ""
+  -"Equal contribution"
+  -"Equal contribution"
+  -""
 
 date: '2024-06-01T00:00:00Z'
 doi: ''
