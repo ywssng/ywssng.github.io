@@ -40,11 +40,11 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
-      {{- if isset $.Params "author_notes" -}}
-        {{- with (index $.Params.author_notes $index) -}}
-          <sup class="author-notes" data-toggle="tooltip" title="{{ . }}">*</sup>
-        {{- end -}}
-      {{- end -}}
     </span>
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <sup class="author-notes" data-toggle="tooltip" title="{{ . }}">*</sup>
+      {{- end -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
