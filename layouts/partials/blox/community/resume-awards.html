@@ -40,8 +40,8 @@
             {{ .awarder }} &#8729;
             {{ if .date }}
               {{ (time .date) | time.Format ($block.design.date_format | default "January 2006") }}
-            {{ else }}
-              {{ i18n "present" | default "Present" }}
+            <!-- {{ else }}
+              {{ i18n "present" | default "Present" }} -->
             {{ end }}
             {{ if .date_start }}
               {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
