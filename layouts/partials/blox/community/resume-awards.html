@@ -36,7 +36,6 @@
             <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">{{ .title | markdownify | emojify }}</h5>
           {{ with .url }}</a>{{ end }}
 
-          </div>
           <div class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
             {{ .awarder }} &#8729;
             {{ if .date }}
@@ -51,8 +50,7 @@
                 {{ i18n "present" | default "Present" }}
               {{ end }}
             {{ end }}
-          </div>
-          
+          </div> 
 
           {{ with .summary }}
             <div class="mb-3 font-normal text-gray-500 dark:text-gray-400 prose">{{ . | markdownify | emojify }}</div>

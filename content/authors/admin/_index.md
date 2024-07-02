@@ -159,9 +159,9 @@ work:
 awards:
   - title: Excellent Leadership and Volunteer Graduate Award
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     icon: coursera
     date: 2022-02-01
     awarder: KAIST
-#     icon: coursera
     summary: |
       Selected for showing exceptional leadership and participation in multiple volunteer acts (as one of 11 among all graduates in 2022).
   - title: KAIST Alumni Academic Scholarship
