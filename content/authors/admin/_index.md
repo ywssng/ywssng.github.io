@@ -76,8 +76,8 @@ education:
 work:
     - position: Researcher
       company_name: DYPHI
-      compnay_url: 'https://www.dyphi.com/'
-      company_logo: 'https://www.dyphi.com/img/dyphi-logo-black.svg'
+      compnay_url: https://www.dyphi.com/
+      company_logo: https://www.dyphi.com/img/dyphi-logo-black.svg
       date_start: 2020-03-23
       date_end: 2021-02-26
       summary: |
