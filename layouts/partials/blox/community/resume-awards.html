@@ -43,12 +43,10 @@
             {{ else }}
               {{ if .date_start }}
                 {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
-              {{ else }}
-                {{ if .date_end }}
+              {{ if .date_end }}
                   {{ (time .date_end) | time.Format ($block.design.date_format | default "January 2006") }}
-                {{ else }}
+              {{ else }}
                   {{ i18n "present" | default "Present" }}
-                {{ end }}
               {{ end }}
             {{ end }}
           </div>
