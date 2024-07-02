@@ -165,15 +165,15 @@ awards:
     summary: |
       Selected for showing exceptional leadership and participation in multiple volunteer acts (as one of 11 among all graduates in 2022).
   - title: KAIST Alumni Academic Scholarship
-    date_start: 2017-03-01
-    date_end: 2020-02-29
+    date_start: '2017-03-01'
+    date_end: '2020-02-29'
     awarder: KAIST Alumni Association
   - title: Undergraduate Humanities Scholarship
     date: 2019-07-01
     awarder: KAIST
   - title: National Excellence Scholarship in Natural Science and Engineering
-    date_start: 2016-03-01
-    date_end: 2018-12-31
+    date_start: '2016-03-01'
+    date_end: '2018-12-31'
     awarder: Korea Student Aid Foundation (KOSAF)
 ---
 <h2 class="mt-0 pt-0 lg:mt-0 lg:pt-0 text-3xl">About Me</h2>
