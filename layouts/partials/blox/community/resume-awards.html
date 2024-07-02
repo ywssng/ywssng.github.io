@@ -42,7 +42,6 @@
       {{ (time .date) | time.Format ($block.design.date_format | default "January 2006") }}
     {{ if .date_start}}
       {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –
-    {{ end }}
     {{ if .date_end}}
       {{ (time .date_end) | time.Format ($block.design.date_format | default "January 2006") }}
     {{else}}
