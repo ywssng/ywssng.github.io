@@ -90,7 +90,7 @@ work:
       date_end: 2020-02-14
       summary: |
         - Participated in algorithm and dataset development for GNN-based protein-ligand binding prediction.
-        - Intership hosted by 2019 Winter Company-University Cooperation (CUop) Program in KAIST.
+        - Internship hosted by 2019 Winter Company-University Cooperation (CUop) Program in KAIST.
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
