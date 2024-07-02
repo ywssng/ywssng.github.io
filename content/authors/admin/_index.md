@@ -56,8 +56,8 @@ interests:
 education:
   - area: Integrated M.S./Ph.D. in Physics
     institution: Korea Advanced Institute of Science and Technology
-    date_start: 2022-03-01
-    # date_end: current
+    date_start: 2022-02-28
+    date_end: ''
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -66,13 +66,31 @@ education:
   - area: B.S. in Physics, Computer Science
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2016-03-01
-    date_end: 2022-02-28
+    date_end: 2022-02-27
     # summary: |
     #   GPA: 3.8/4.0
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+    - position: Researcher
+      company_name: DYPHI
+      compnay_url: 'https://www.dyphi.com/'
+      company_logo: 'https://www.dyphi.com/img/dyphi-logo-black.svg'
+      date_start: 2020-03-23
+      date_end: 2021-02-26
+      summary: |
+        - Performed model development in dataset establishment task for training deep-learning models from National Information Society Agency (NIA), Korea.
+    - position: Research Intern
+      company_name: Dingbro
+      compnay_url: ''
+      company_logo: ''
+      date_start: 2019-12-23
+      date_end: 2020-02-14
+      summary: |
+        - Participated in algorithm and dataset development for GNN-based protein-ligand binding prediction.
+        - Intership hosted by 2019 Winter Company-University Cooperation (CUop) Program in KAIST.
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -138,14 +156,25 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
+awards:
+  - title: Excellent Leadership and Volunteer Graduate Award
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
+    date: 2022-02-01
+    awarder: KAIST
 #     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    summary: |
+      Selected for showing exceptional leadership and participation in multiple volunteer acts (as one of 11 among all graduates in 2022).
+  - title: KAIST Alumni Academic Scholarship
+    date_start: 2017-03-01
+    date_end: 2020-02-29
+    awarder: KAIST Alumni Association
+  - title: Undergraduate Humanities Scholarship
+    date: 2019-07-01
+    awarder: KAIST
+  - title: National Excellence Scholarship in Natural Science and Engineering
+    date_start: 2016-03-01
+    date_end: 2018-12-31
+    awarder: Korea Student Aid Foundation (KOSAF)
 ---
 <h2 class="mt-0 pt-0 lg:mt-0 lg:pt-0 text-3xl">About Me</h2>
 
