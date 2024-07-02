@@ -76,15 +76,15 @@ education:
 work:
     - position: Researcher
       company_name: DYPHI
-      compnay_url: https://www.dyphi.com/
-      company_logo: https://www.dyphi.com/img/dyphi-logo-black.svg
+      company_url: https://www.dyphi.com/
+      company_logo: ''
       date_start: 2020-03-23
       date_end: 2021-02-26
       summary: |
         - Performed model development in dataset establishment task for training deep-learning models from National Information Society Agency (NIA), Korea.
     - position: Research Intern
       company_name: Dingbro
-      compnay_url: ''
+      company_url: ''
       company_logo: ''
       date_start: 2019-12-23
       date_end: 2020-02-14
