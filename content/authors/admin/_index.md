@@ -156,25 +156,25 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Excellent Leadership and Volunteer Graduate Award
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     icon: coursera
-    date: 2022-02-01
-    awarder: KAIST
-    summary: |
-      Selected for showing exceptional leadership and participation in multiple volunteer acts (as one of 11 among all graduates in 2022).
-  - title: KAIST Alumni Academic Scholarship
-    date_start: 2017-03-01
-    date_end: 2020-02-29
-    awarder: KAIST Alumni Association
-  - title: Undergraduate Humanities Scholarship
-    date: 2019-07-01
-    awarder: KAIST
-  - title: National Excellence Scholarship in Natural Science and Engineering
-    date_start: 2016-03-01
-    date_end: 2018-12-31
-    awarder: Korea Student Aid Foundation (KOSAF)
+# awards:
+#   - title: Excellent Leadership and Volunteer Graduate Award
+# #     url: https://www.coursera.org/learn/neural-networks-deep-learning
+# #     icon: coursera
+#     date: 2022-02-01
+#     awarder: KAIST
+#     summary: |
+#       Selected for showing exceptional leadership and participation in multiple volunteer acts (as one of 11 among all graduates in 2022).
+#   - title: KAIST Alumni Academic Scholarship
+#     date_start: 2017-03-01
+#     date_end: 2020-02-29
+#     awarder: KAIST Alumni Association
+#   - title: Undergraduate Humanities Scholarship
+#     date: 2019-07-01
+#     awarder: KAIST
+#   - title: National Excellence Scholarship in Natural Science and Engineering
+#     date_start: 2016-03-01
+#     date_end: 2018-12-31
+#     awarder: Korea Student Aid Foundation (KOSAF)
 ---
 <h2 class="mt-0 pt-0 lg:mt-0 lg:pt-0 text-3xl">About Me</h2>
 
