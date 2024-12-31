@@ -57,7 +57,7 @@ links:
 - name: Paper
   url: 'https://arxiv.org/abs/2406.00396v2'
 url_pdf: 'https://arxiv.org/pdf/2406.00396v2'
-url_code: 'https://github.com/qodudrud/stochastic-resetting'
+# url_code: 'https://github.com/qodudrud/stochastic-resetting'
 # url_dataset: 
 # url_poster: ''
 # url_project: ''

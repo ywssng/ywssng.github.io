@@ -52,7 +52,7 @@ links:
 - name: Paper
   url: 'https://openreview.net/forum?id=AZGIwqCyYY'
 url_pdf: 'https://openreview.net/pdf?id=AZGIwqCyYY'
-url_code: 'https://github.com/ywssng/hamiltonian-representation'
+# url_code: 'https://github.com/ywssng/hamiltonian-representation'
 # url_dataset: 
 # url_poster: ''
 # url_project: ''
