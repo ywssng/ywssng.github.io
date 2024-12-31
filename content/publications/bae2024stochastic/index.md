@@ -44,7 +44,7 @@ abstract: Giving up and starting over may seem wasteful in many situations such 
 tags:
   - physics for ai
   - statistical physics
-  - stochastic restarting
+  - stochastic resetting
   - learning noisy labels
   - robust regularization
 
@@ -55,9 +55,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://arxiv.org/abs/2406.00396v2
+  url: 'https://arxiv.org/abs/2406.00396v2'
 url_pdf: 'https://arxiv.org/pdf/2406.00396v2'
-# url_code: ''
+url_code: 'https://github.com/qodudrud/stochastic-resetting'
 # url_dataset: 
 # url_poster: ''
 # url_project: ''
