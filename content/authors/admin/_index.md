@@ -180,7 +180,7 @@ work:
 
 <div class="prose prose-slate lg:prose-xl dark:prose-invert mb-6">
     <p>I am a Ph.D. student at the Dept. of Physics, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, advised by Prof. <a href="https://stat.kaist.ac.kr/">Hawoong Jeong</a>. Currently, I have my interests in the latest advances in AI from a physicist's perspective. <br><br>
-    My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to solve the problems in physics with the help of AI, and vice versa, to understand the behavior and functions of AI through the lens of physics. <br><br>
+    My work focuses on the interdisciplinary field of physics and AI. Specifically, my research aims to understand the behavior and functions of AI through the lens of physics, and vice versa, to solve the problems in physics & complex systems with the help of AI. <br><br>
     I also enjoy brewing myself a good cup of coffee ☕️, working out at the gym 🏋️, and playing the violin 🎻.</p>
 </div>
 
